@@ -1,0 +1,6 @@
+# label:color_rgb:parts:actions
+background:0,0,0::
+person:128,0,0::
+vehicle:0,128,0::
+object:128,128,0::
+lane:0,0,128::
